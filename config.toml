@@ -1,6 +1,6 @@
 baseurl = "https://v2less.com"
 languageCode = "en-us"
-title = "The way to minimalist."
+title = "V2Less"
 theme = "hugo-xmin"
 googleAnalytics = ""
 disqusShortname = ""
