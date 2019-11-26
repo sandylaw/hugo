@@ -1,5 +1,5 @@
 ---
-title: About
+title: 关于
 author: V2Less
 date: '2019-11-24'
 slug: about
@@ -28,5 +28,5 @@ Minimalism is a tool to rid yourself of life’s excess in favor of focusing on 
 Hugo+hugo-xmin+github+netlify
 
 * [Hugo](http://gohugo.io/)：静态网站生成器
-* [Yihui](https://yihui.org/) :   谢益辉，主题作者
+* [Yihui](https://yihui.org/)：谢益辉，主题作者
 
