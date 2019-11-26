@@ -18,7 +18,7 @@ tags: minimalist
 
 * 我的家空无一物
 
-  日本极简主义短剧。链接: https://pan.baidu.com/s/1zgDj3zqCRiev9VRgUjGmVw 密码: ex4u
+  日本极简主义短剧。链接: https://pan.baidu.com/s/1SDHc8vrAL9kNszZxk0y__g 提取码: sv6w
 
 * linlinxing做客极简主义研究所
 
