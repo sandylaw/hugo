@@ -13,7 +13,7 @@ tags:
 
 * Archlinux 2019
 
-* 首先安装R 和 rstudio-desktop-bin
+* 首先安装`R`和 `rstudio-desktop-git`,不要安装`rstudio-desktop-bin`，因为rstudio自带的Qt5库和系统安装的Qt5库不一致，不能输入中文。
 
 * 因不明原因，需要配置好proxychains
 
