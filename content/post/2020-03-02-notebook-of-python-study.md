@@ -1,5 +1,5 @@
 ---
-title: notebook of python study
+title: The notebook of python study
 author: V2Less
 date: '2020-03-02'
 slug: notebook-of-python-study
@@ -36,6 +36,6 @@ tags:
 
 ## Python 机器学习包
 * scikit-learn
-*tensorflow
-*pytorch，theano……
+* tensorflow
+* pytorch，theano……
 
