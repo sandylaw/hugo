@@ -51,7 +51,7 @@ tags:
 
 [磁力搜](https://biedian.me/)
 
-[大力盘搜索](https://www.dalipan.com/)
+[大圣盘搜索](https://www.dashengpan.com/)
 
 [盘搜索](https://www.pansoso.com/)
 
@@ -73,4 +73,5 @@ tags:
 
 [中文独立博客](https://github.com/timqian/chinese-independent-blogs)
 
+[王垠](http://www.yinwang.org/)
 
