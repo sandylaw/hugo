@@ -21,11 +21,15 @@ tags:
 
 [诸神字幕组](https://subs.kamigami.org/)
 
+---
+
 ## 极简主义
 
 [Theminimalist](https://www.theminimalists.com/)
 
 [linlinxing](http://linlinxing.com/)
+
+---
 
 ## 书籍
 
@@ -37,6 +41,12 @@ tags:
 
 [ePubee电子书库](http://cn.epubee.com/books/)
 
+[epubw](https://epubw.com/)
+
+[云盘精灵](https://www.yunpanjingling.com/)
+
+---
+
 ## 影音
  
 [美剧网](https://91mjw.com/)
@@ -46,6 +56,8 @@ tags:
 [IPFS导航](http://ipfsabc.com/)
 
 [无损音乐](http://www.baiduonce.com/list-1.html)
+
+---
 
 ## 资  源
 
@@ -57,6 +69,8 @@ tags:
 
 [全能下载工具](https://motrix.app/zh-CN/)
 
+---
+
 ## 学习
 
 [书栈网](https://www.bookstack.cn/)
@@ -66,6 +80,8 @@ tags:
 [财会资料库](http://www.ibd-club.com/index.asp)
 
 [中国研究生招生信息网](https://yz.chsi.com.cn/)
+
+---
 
 ## 博客/播客
 
