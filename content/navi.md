@@ -69,6 +69,8 @@ tags:
 
 [全能下载工具](https://motrix.app/zh-CN/)
 
+[聚BT](https://jubt.net/cn/index.html#)
+
 ---
 
 ## 学习

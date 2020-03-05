@@ -39,3 +39,12 @@ tags:
 * tensorflow
 * pytorch，theano……
 
+## Jupyter notebook
+
+Jupyter Notebook是基于网页的用于交互计算的应用程序。其可被应用于全过程计算：开发、文档编写、运行代码和展示结果。
+
+安装了Anaconda发行版时已经自动为你安装了Jupyter Notebook的。
+
+获取命令帮助的快捷键 `shift+tab`。
+
+
