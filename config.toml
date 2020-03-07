@@ -34,7 +34,11 @@ footnotereturnlinkcontents = "↩"
 [[menu.main]]
     name = "Linkedin"
     url = "https://www.linkedin.com/in/v2less/"
-
+    weight = 7
+[[menu.main]]
+    name = "读书笔记"
+    url = "/MyClippings/"
+    weight = 6
 [params]
     description = "A website built through Hugo and blogdown."
     footer = "&copy; [V2Less](https://v2less.com) 2017 -- 2019 | [Github](https://github.com/sandylaw) | [Twitter](https://twitter.com/v2less)"
