@@ -34,3 +34,11 @@ Copy 自 https://github.com/duarteocarmo/my-personal-zen
 `python kindleClippings_highlight_parser.py My Clippings.txt`
 
 脚本将按书依次生成`.MD`文件。
+
+## 发现另一个脚本
+
+来自MilkShake🐏的文章:
+
+[Jan 2018 Updated「轻量」整理和阅读 Kindle 书摘](https://sspai.com/post/39008)
+
+Fork的项目地址：[kindle-clippings](https://github.com/sandylaw/kindle-clippings)
