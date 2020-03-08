@@ -14,8 +14,7 @@ https://motrix.app/
 https://www.iplaysoft.com/motrix.html
 ## Photon
 https://github.com/alanzhangzm/Photon/releases
-## BT电影天堂
-http://www.btbtdy.me/
+
 ## 动漫花园
 修改```C:\Windows\System32\drivers\etc\hosts```文件，添加一行：
 `104.25.27.31 share.dmhy.org`
@@ -23,7 +22,7 @@ http://www.btbtdy.me/
 https://share.dmhy.org/
 ## 磁力聚合搜索
 https://biedian.me/
-## 大力盘
-https://www.dalipan.com/
+## 大圣盘
+https://www.dashengpan.com/
 ## 盘搜搜
 http://www.pansoso.com/
