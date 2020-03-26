@@ -39,6 +39,8 @@ tags:
 
 [熊猫搜书](https://ebook.huzerui.com/)
 
+[i-book.in搜索](https://book.tstrs.me/)
+
 [ePubee电子书库](http://cn.epubee.com/books/)
 
 [epubw](https://epubw.com/)
