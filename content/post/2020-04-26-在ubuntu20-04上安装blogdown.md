@@ -156,6 +156,12 @@ git config --global user.email "youremail@yourdomain.com"
 8. 如有提示，请确认您的 GitHub 密码。
 
    ![Sudo 模式对话框](https://help.github.com/assets/images/help/settings/sudo_mode_popup.png)
+   
+   ### 新增 SSH 密钥到项目
+   
+   密钥保存名称要修改为其他名字，和上一个不同即可。然后将此密钥复制到github项目的settings-->Deploy keys.
+   
+   
 
 ## RStudio 配置
 
@@ -413,3 +419,21 @@ Yihui 是这样说的：
 ![14-domains](https://gitee.com/heavenzone/picturebed/raw/master/zhonghaoguang.com/2018/20180117-14-domains.png)
 
 然后点击`Add custom domain`，这个时候就可以输入你在域名提供商处注册的域名了。
+
+## 发布博客
+
+### 设置好ssh url
+
+如果之前用的是https，那么需要将remote改为ssh；如果已经是ssh则不需要修改。
+
+可以通过如下命令来查看当前的remote方式： 
+`git remote -v`
+
+如果当前是https的，那么可以通过如下命令修改为ssh： 
+`git remote set-url origin git@github.com:account/project.git`
+
+至于如何获取SSH URL呢？可以在项目主页，点击右侧的SSH clone URL
+
+### 点击发布
+
+菜单Tools—Version Control，或者次顶部的按钮，或者Ctrl+Alt+M，添加commit，先pull，再push到github项目。
