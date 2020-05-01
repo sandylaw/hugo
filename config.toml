@@ -1418,7 +1418,7 @@ uglyURLs = false
     enableEmphasisPoint = false
     enableChinesePunctuationGlyphCorrection = false
     customFooter = "[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en)"
-=======
+
 baseurl = "https://v2less.com"
 languageCode = "en-us"
 title = "V2Less"
