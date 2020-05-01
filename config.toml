@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 ##########################################
 # 站点配置
 
@@ -1418,3 +1419,46 @@ uglyURLs = false
     enableEmphasisPoint = false
     enableChinesePunctuationGlyphCorrection = false
     customFooter = "[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en)"
+=======
+baseurl = "https://v2less.com"
+languageCode = "en-us"
+title = "V2Less"
+theme = "hugo-xmin"
+googleAnalytics = ""
+disqusShortname = ""
+ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$"]
+footnotereturnlinkcontents = "↩"
+
+[permalinks]
+    post = "/post/:year/:month/:day/:slug/"
+    note = "/note/:year/:month/:day/:slug/"
+
+[[menu.main]]
+    name = "Home"
+    url = "/"
+    weight = 1
+[[menu.main]]
+    name = "Hi"
+    url = "/about/"
+    weight = 2
+[[menu.main]]
+    name = "Navi"
+    url = "/navi/"
+    weight = 3    
+[[menu.main]]
+    name = "Categories"
+    url = "/categories/"
+    weight = 4
+[[menu.main]]
+    name = "Tags"
+    url = "/tags/"
+    weight = 5
+[[menu.main]]
+    name = "Linkedin"
+    url = "https://www.linkedin.com/in/v2less/"
+    weight = 7
+
+[params]
+    description = "A website built through Hugo and blogdown."
+    footer = "&copy; [V2Less](https://v2less.com) 2017 -- 2019 | [Github](https://github.com/sandylaw) | [Twitter](https://twitter.com/v2less)"
+>>>>>>> 84f8b9f2f0098b431b3034853d70bcd029f5643b
