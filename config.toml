@@ -12,7 +12,7 @@ copyright = "在保留本文作者及本文链接的前提下，非商业用途�
 theme = "meme"
 
 # `hugo new` 新建文章自动打开的文本编辑器
-newContentEditor = "gedit"
+newContentEditor = "typora"
 
 # i18n
 defaultContentLanguage = "zh"
@@ -94,7 +94,7 @@ uglyURLs = false
     # 名字
     name = "V2Less"
     # 邮箱
-    email = "freelxsgmail.com"
+    email = "freelxs@gmail.com"
     # 座右铭或简介
     motto = "Less is more."
     # 头像
@@ -232,7 +232,7 @@ uglyURLs = false
         pre = "internal"
         post = "grav"
         identifier = "less"
-    [[menu.main]]
+   [[menu.main]]
         url = "/about/"
         name = "关于"
         weight = 4
@@ -406,16 +406,16 @@ uglyURLs = false
     # 说明：用于 JSON-LD、Open Graph
 
     # 站点的描述
-    siteDescription = "这是 v2less 的生活与技术博客！"
+    siteDescription = "这是 reuixiy 的生活与技术博客！怎么记住 reuixiy 呢？其实就是「一休儿」的拼音，只不过顺序是从右往左……"
     # 说明：用于 HTML 的头部元数据、JSON-LD、
     #      Open Graph、Atom、RSS
 
     # 站点的创建时间
-    siteCreatedTime = "2018-01-07T16:13:14+08:00"
+    siteCreatedTime = "2017-05-27T15:13:14+08:00"
     # 注意：请保持此格式，更改数字
 
     # 站点的推特帐号
-    siteTwitter = "v2less"
+    siteTwitter = "reuixiy"
     # 说明：用于 Twitter Cards
 
 
@@ -523,7 +523,7 @@ uglyURLs = false
     # 说明：分区的名字即站点的 content 目录下
     #      的文件夹的名字。
 
-    mainSections = ["life", "tech","less"]
+    mainSections = ["life", "tech"]
 
 
     ######################################
@@ -1406,7 +1406,7 @@ uglyURLs = false
         identifier = "lang-switcher"
 [languages.en.params]
     homePoetry = ["If you are brave to say 'goodbye'","life will reward you with a new 'hello'","It's the possibility of having a dream come true that makes life interesting","When you want something","all the universe conspires in helping you to achieve it"]
-    siteDescription = "Blog of v2lessin English."
+    siteDescription = "Blog of v2less in English."
     listDateFormat = "January 2"
     fontFamilyTitle = "'Amstelvar', serif"
     fontFamilyHeadings = "'Amstelvar', serif"
@@ -1418,45 +1418,3 @@ uglyURLs = false
     enableEmphasisPoint = false
     enableChinesePunctuationGlyphCorrection = false
     customFooter = "[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en)"
-
-baseurl = "https://v2less.com"
-languageCode = "en-us"
-title = "V2Less"
-theme = "hugo-xmin"
-googleAnalytics = ""
-disqusShortname = ""
-ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$"]
-footnotereturnlinkcontents = "↩"
-
-#[permalinks]
-#    post = "/post/:year/:month/:day/:slug/"
-#    note = "/note/:year/:month/:day/:slug/"
-
-[[menu.main]]
-    name = "Home"
-    url = "/"
-    weight = 1
-[[menu.main]]
-    name = "Hi"
-    url = "/about/"
-    weight = 2
-[[menu.main]]
-    name = "Navi"
-    url = "/navi/"
-    weight = 3    
-[[menu.main]]
-    name = "Categories"
-    url = "/categories/"
-    weight = 4
-[[menu.main]]
-    name = "Tags"
-    url = "/tags/"
-    weight = 5
-[[menu.main]]
-    name = "Linkedin"
-    url = "https://www.linkedin.com/in/v2less/"
-    weight = 7
-
-[params]
-    description = "A website built through Hugo and blogdown."
-    footer = "&copy; [V2Less](https://v2less.com) 2017 -- 2019 | [Github](https://github.com/sandylaw) | [Twitter](https://twitter.com/v2less)"
