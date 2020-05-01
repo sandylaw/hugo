@@ -411,11 +411,15 @@ uglyURLs = false
     #      Open Graph、Atom、RSS
 
     # 站点的创建时间
+<<<<<<< HEAD
     siteCreatedTime = "2017-01-16T16:13:14+08:00"
+=======
+    siteCreatedTime = "2017-05-27T15:13:14+08:00"
+>>>>>>> 45fe5b54d0e56dfaf6f5cbc47f10cabff6be4cbb
     # 注意：请保持此格式，更改数字
 
     # 站点的推特帐号
-    siteTwitter = "v2less"
+    siteTwitter = "reuixiy"
     # 说明：用于 Twitter Cards
 
 
