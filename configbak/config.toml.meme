@@ -282,11 +282,6 @@ uglyURLs = false
         name = "Twitter"
         weight = 3
         pre = "external"
-    [[menu.socials]]
-        url = "https://www.linkedin.com/in/v2less/"
-        name = "Linkedin"
-        weight = 4
-        pre = "external"
     ## 链接栏
     [[menu.links]]
         url = "/"
@@ -298,11 +293,11 @@ uglyURLs = false
         name = "Tags"
         weight = 2
         pre = "internal"
- #   [[menu.links]]
- #       url = "/coldplay/"
- #       name = "Coldplay"
- #       weight = 3
- #       pre = "internal"
+    [[menu.links]]
+        url = "mailto:freelxs@gmail.com"
+        name = "Email"
+        weight = 3
+        pre = "internal"
 
 
 
