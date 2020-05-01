@@ -1460,4 +1460,3 @@ footnotereturnlinkcontents = "↩"
 [params]
     description = "A website built through Hugo and blogdown."
     footer = "&copy; [V2Less](https://v2less.com) 2017 -- 2019 | [Github](https://github.com/sandylaw) | [Twitter](https://twitter.com/v2less)"
->>>>>>> 84f8b9f2f0098b431b3034853d70bcd029f5643b
