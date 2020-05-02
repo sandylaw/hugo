@@ -31,6 +31,8 @@ tags:
 
 [linlinxing](http://linlinxing.com/)
 
+**极简主义者微信公众号：Tonyfu2020**
+
 ---
 
 ## 书籍
@@ -52,12 +54,10 @@ tags:
 ---
 
 ## 影音
- 
+
 [美剧网](https://91mjw.com/)
 
 [人人影视](http://www.yyets.com/)
-
-[IPFS导航](http://ipfsabc.com/)
 
 [无损音乐](http://www.baiduonce.com/list-1.html)
 
@@ -67,7 +67,7 @@ tags:
 
 [磁力搜](https://biedian.me/)
 
-[大圣盘搜索](https://www.dashengpan.com/)
+[大力搜索](https://www.dalipan.com/)
 
 [盘搜索](https://www.pansoso.com/)
 
