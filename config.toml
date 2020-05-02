@@ -411,7 +411,7 @@ uglyURLs = false
     # 说明：用于 JSON-LD、Open Graph
 
     # 站点的描述
-    siteDescription = "这是 reuixiy 的生活与技术博客！怎么记住 reuixiy 呢？其实就是「一休儿」的拼音，只不过顺序是从右往左……"
+    siteDescription = "这是 V2Less的生活与技术博客，走在极简主义的道路上。"
     # 说明：用于 HTML 的头部元数据、JSON-LD、
     #      Open Graph、Atom、RSS
 
@@ -1417,7 +1417,7 @@ uglyURLs = false
     fontFamilyHeadings = "'Amstelvar', serif"
     fontFamilyBody = "'Amstelvar', serif"
     fontsLink = "https://fonts.googleapis.com/css2?family=Source+Code+Pro:ital,wght@0,400;0,700;1,400;1,700&display=swap"
-    lineHeight = 1.618
+    lineHeight = 1.618  
     enableJustify = false
     enableSmallCaps = true
     enableEmphasisPoint = false
