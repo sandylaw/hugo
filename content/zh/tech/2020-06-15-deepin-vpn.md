@@ -50,3 +50,11 @@ sudo apt-cache policy dde-control-center ##查看软件包信息，包括支持�
 sudo apt install dde-control-center=version_num ##指定版本号安装软件包
 ```
 
+回退frameworkdbus的版本，执行以下命令：
+
+```bash
+sudo apt install libdframeworkdbus2=5.1.0.1-1
+```
+
+
+
