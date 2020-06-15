@@ -15,7 +15,18 @@ tags:
 
 * 首先安装`R`和 `rstudio-desktop-git`,不要安装`rstudio-desktop-bin`，因为rstudio自带的Qt5库和系统安装的Qt5库不一致，不能输入中文。
 
+
+
 * 因不明原因，需要配置好proxychains
+* 或者配置~/.Renviron
+```bash
+http_proxy=http://127.0.0.1:1081
+https_proxy=http://127.0.0.1:1081
+```
+* 配置RCAN  ~/.Rprofile
+```bash
+options("repos" = c(CRAN="https://mirrors.tuna.tsinghua.edu.cn/CRAN/"))
+```
 
 * 在终端使用 `proxychains R` 启动后，在R命令下安装blogdown、hugo。
 
@@ -64,6 +75,21 @@ tags:
 * 点Help下的Addins--Serve Site，将生成静态文件，并动态监控，实时生成。
 
 * Rstudio-Version Control，或者次顶部的按钮，或者Ctrl+Alt+M，添加commit，push到github项目，若不能，先pull再push。
+## Rstudio中输入中文
+
+将相关插件连接到/usr/lib/rstudio/plugins/platforminputcontexts/文件夹内，在shell中执行如下命令：
+
+```bash
+sudo ln -s /usr/lib/$(dpkg-architecture -qDEB_BUILD_MULTIARCH)/qt5/plugins/platforminputcontexts/libfcitxplatforminputcontextplugin.so /usr/lib/rstudio/plugins/platforminputcontexts
+```
+
+在/usr/lib/rstudio/bin的路径下找到qt.conf文件（注：可能不同版本路径会有所差别需要注意一下），添加刚才链接使用的路径：
+
+```bash
+[Paths]
+Prefix = /usr/lib/rstudio/
+Prefix = ../
+```
 
 参考：
 
