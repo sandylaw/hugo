@@ -264,3 +264,14 @@ EDITOR |用户默认的文本编辑器
 | :set nu                                                      | 显示行号，设定之后，会在每一行的前缀显示该行的行号           |
 | :set nonu                                                    | 与 set nu 相反，为取消行号！                                 |
 
+## chattr
+### 只读
+`chattr +i filename`
+### 解除只读
+`chattr -i filename`
+### 只能追加
+`chattr +a filename`
+### 对目录下所有文件操作
+`chattr -R +i dir/`
+### 查看权限
+`lsattr filename`
