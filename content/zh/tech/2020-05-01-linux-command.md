@@ -275,3 +275,25 @@ EDITOR |用户默认的文本编辑器
 `chattr -R +i dir/`
 ### 查看权限
 `lsattr filename`
+
+## netcli
+
+### 检查WiFi无线状态 
+`nmcli radio wifi`
+### 启用WiFi无线
+`nmcli radio wifi on`
+### 检查网络接口卡的状态
+`nmcli dev status` 
+### 检查可用的Wi-Fi访问点
+`nmcli dev wifi list` 
+### 重新扫描
+`nmcli dev wifi rescan`
+### 使用NMCLI连接到WiFi
+`sudo nmcli dev wifi connect <ssid> password <mypassword>`
+### 检查设备状态
+`nmcli con sh`
+### 删除wifi连接
+`sudo nmcli con del <ssid>`
+### 关闭或打开以前的连接
+`nmcli con down` 
+`nmcli con up`
