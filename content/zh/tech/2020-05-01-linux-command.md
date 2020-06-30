@@ -297,3 +297,11 @@ EDITOR |用户默认的文本编辑器
 ### 关闭或打开以前的连接
 `nmcli con down` 
 `nmcli con up`
+
+## ps
+Linux ps命令用于显示当前进程 (process) 的状态。
+```bash
+ps -ef  ###显示所有命令，连带命令行
+ps aux  ###列出目前所有的正在内存中的程序
+ps -afx ###看进程树 看各个进程的启动时间
+```
