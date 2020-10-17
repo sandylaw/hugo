@@ -13,15 +13,13 @@ tags:
 
 [动漫花园](http://dmhy.org/)
 
-[看番吧](https://akcp.kanfanba.com/)
-
 [樱花动漫](http://www.yhdm.tv/)
 
 [B站](https://www.bilibili.com/)
 
-[哈里哈里](http://halihali.li/)
-
 [诸神字幕组](https://subs.kamigami.org/)
+
+[海贼王](https://one-piece.cn/anime/)
 
 ---
 
@@ -39,15 +37,13 @@ tags:
 
 [书伴](https://bookfere.com/)
 
+[digital shadow library ](https://librarygenesis.net/)
+
 [鸠摩搜索](https://www.jiumodiary.com/)
 
 [熊猫搜书](https://ebook.huzerui.com/)
 
-[i-book.in搜索](https://book.tstrs.me/)
-
 [ePubee电子书库](http://cn.epubee.com/books/)
-
-[epubw](https://epubw.com/)
 
 [云盘精灵](https://www.yunpanjingling.com/)
 
@@ -57,19 +53,17 @@ tags:
 
 [美剧网](https://91mjw.com/)
 
+[爱看美剧](https://www.akmeiju.com)
+
 [人人影视](http://www.yyets.com/)
 
-[无损音乐](http://www.baiduonce.com/list-1.html)
+
+[NF](https://www.nfmovies.com/)
 
 ---
 
 ## 资  源
 
-[磁力搜](https://biedian.me/)
-
-[大力搜索](https://www.dalipan.com/)
-
-[盘搜索](https://www.pansoso.com/)
 
 [全能下载工具](https://motrix.app/zh-CN/)
 
