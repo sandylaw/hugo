@@ -1,5 +1,7 @@
+---
 baseurl: "/"
 languageCode: "en-us"
+NewContentEditor: "vi"
 title: "The way to minimalist"
 theme: "hugo-xmin"
 googleAnalytics: ""
@@ -34,5 +36,5 @@ params:
 
 markup:
   goldmark:
-    renderer:
-      unsafe: true
+  renderer:
+  unsafe: true
