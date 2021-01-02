@@ -35,6 +35,10 @@ tags:
 
 ## 书籍
 
+[书享家](http://shuxiangjia.cn/)
+
+[一单书](https://yidanshu.com/)
+
 [书伴](https://bookfere.com/)
 
 [digital shadow library ](https://librarygenesis.net/)
@@ -57,8 +61,11 @@ tags:
 
 [人人影视](http://www.yyets.com/)
 
+[YTS Torrent](https://yts.mx/)
 
 [NF](https://www.nfmovies.com/)
+
+[好音乐发现](https://www.onaloop.com/)
 
 ---
 
@@ -68,6 +75,8 @@ tags:
 [全能下载工具](https://motrix.app/zh-CN/)
 
 [聚BT](https://jubt.net/cn/index.html#)
+
+[BTHub](https://github.com/fwonggh/Bthub)
 
 ---
 
@@ -80,6 +89,8 @@ tags:
 [财会资料库](http://www.ibd-club.com/index.asp)
 
 [中国研究生招生信息网](https://yz.chsi.com.cn/)
+
+[How to be a Pragrammer](https://github.com/braydie/HowToBeAProgrammer)
 
 ---
 
