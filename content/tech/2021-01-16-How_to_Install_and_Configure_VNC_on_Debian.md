@@ -274,7 +274,7 @@ Output● vncserver@1.service - Start TightVNC server at startup
 
 
 
-项目地址： https://github.com/sandylaw/shellcripts/vnc/
+项目地址： https://github.com/sandylaw/shellcripts/tree/main/vnc
 
 用法：
 
